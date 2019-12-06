@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## [My Resume](https://github.com/Zhaoyang20/Zhaoyang20.github.io/blob/master/CV_ZhaoyangZhang_Tsinghua.pdf)
 
-You can use the [editor on GitHub](https://github.com/Zhaoyang20/Zhaoyang20.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Zhaoyang Zhang, a senior student at the department of Aerospace Engineering, Tsinghua University. I was a visiting student of the [CFD Lab](https://sites.google.com/site/ucsbcfdlab/home/) at UCSB in 2019 summer, advised by [Prof. Eckart Meiburg](https://me.ucsb.edu/people/eckart-meiburg). At Tsinghua, I work as a student researcher at , under the guidance of [Prof. Lihao Zhao](https://www.tsinghua.edu.cn/publish/hyen/1694/2016/20160906105643145637551/20160906105643145637551_.html).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
