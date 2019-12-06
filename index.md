@@ -11,17 +11,17 @@ I'm interested in understanding fundamental mechanisms of multiphase, interfacia
 
 ### Research Experiences
 
-1. Instability in double-diffusive fingering regime, 07/2019-09/2019
+#### 1. Instability in double-diffusive fingering regime, 07/2019-09/2019
 * Designed a 2D numerical configuration of rainwater layer over seawater, connected by a diffusive interface 
 * Conducted direct numerical simulations with different combinations of parameter via adapted flow solver PARTIES (developed by CFD lab) * Observed Rayleigh-Taylor(RT) instability and double-diffusive(DD) salt fingers. Explored 1D analytical solution for explanation of the observed phenomenon 
 * Studied the effects of density ratio and diffusivity ratio on quantitative characteristics of mixed layer created by RT and DD fingers * Currently summing up results and have a paper in preparation
 
-2. Aerodynamic characteristics of aircraft with complex shape, 07/2018-10/2018
+#### 2. Aerodynamic characteristics of aircraft with complex shape, 07/2018-10/2018
 * Explored Riemann problem analytical solution for 1-dimensional situation 
 * Established 3D unstructured mesh using ICEM CFD and completed simulation for cases with different parameters (velocity, altitude) in ANSYS FLUENT 
 * Visualized the evolution characteristics of flow field (streamlines,pressure,etc.) by recording and playing macro commands in TECPLOT * Analyzed how the important parameters (flying velocity, altitude, etc.) influenced the direction of airflow in aircraft windshield accidents
 
-3. Acoustic levitation of tiny particle influenced by fluid motion, 09/2018-07/2019
+#### 3. Acoustic levitation of tiny particle influenced by fluid motion, 09/2018-07/2019
 * Conducted literature review, studied the theory of acoustic levitation(or acoustophoresis), and investigated the development of applied device
 * Fabricated a functional system including ultrasonic transducers and a driving board. Achieved stable levitation of Styrofoam bits and water droplets
 * Designed models of different structures (curvature, transducer size) and conducted numerical simulation in COMSOL to achieve higher acoustic energy density
