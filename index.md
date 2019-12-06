@@ -35,17 +35,9 @@ The 13th Asia-Oceania Top University League on Engineering(AOTULE)
 
 ### Skills
 * Advanced knowledge: Matlab, Ansys Fluent, ICEM CFD, Comsol, Tecplot, AutoCAD
-* Prgramming skills: C/C++, Fortran
+* Programming skills: C/C++, Fortran
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhaoyang20/Zhaoyang20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Honors and Awards
+* 2018 Jiang Nanxiang Scholarship(1%)
+* 2018 Academic Excellence Scholarship
+* 2019 Academic Excellence Scholarship
