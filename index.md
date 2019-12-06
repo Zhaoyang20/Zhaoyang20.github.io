@@ -6,8 +6,7 @@ I'm interested in understanding fundamental mechanisms of multiphase, interfacia
 
 ### Education Background
 
-* Aerospace Engineering, Tsinghua University(2016-2020)
-* GPA: 3.62/4.0, Ranking: 14/60
+* Major in Aeronautical and Astronautical Engineering, Tsinghua University(2016-2020)
 
 ### Research Experiences
 
